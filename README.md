@@ -371,7 +371,7 @@
  - [EJS](https://ejs.co)
  - [Assembly](https://www.w3schools.in/assembly-language/)
  - [Makefile](https://makefiletutorial.com)
- - [Dockerfile](https://www.javatpoint.com/docker-dockerfile)
+ - [Dockerfile](https://www.tpointtech.com/docker-dockerfile)
  - [Shell](https://www.tutorialspoint.com/unix/shell_scripting.htm)
  - [sed](https://www.tutorialspoint.com/sed/index.htm)
  - [Prolog](https://www.tutorialspoint.com/prolog/index.htm)
